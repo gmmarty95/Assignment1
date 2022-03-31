@@ -1,0 +1,7 @@
+2001639
+1170566
+
+Intel 4004
+AMD FX-8350
+Intel Core i7-4790K
+AMD Ryzen 5 2600
